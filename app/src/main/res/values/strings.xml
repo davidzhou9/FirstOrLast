@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstOrLast</string>
+    <string name="title_activity_play_game">PlayGame</string>
+    <string name="title_activity_lost_game">LostGame</string>
+</resources>
