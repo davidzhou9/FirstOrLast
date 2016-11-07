@@ -11,6 +11,11 @@ public class AboutScreen extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        /**********************************************
+         TEST FOR GIT BRANCH
+        **********************************************/
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_screen);
 
